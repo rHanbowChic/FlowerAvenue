@@ -5,6 +5,11 @@ VisualStudioVersion = 16.0.34114.132
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlowerAvenue", "FlowerAvenue\FlowerAvenue.csproj", "{10E9BFAB-F2BF-47B0-83AC-2B968AA6BAA4}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B61D3EED-F09E-40BD-AD59-FC4FA694BE12}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
